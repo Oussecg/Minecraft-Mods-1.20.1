@@ -1,0 +1,1 @@
+If you want to install mods on minecraft forge 1.20.1, you need to install first forge in your game, then just download this mods from my repository or clone it if you have git installed in your pc
